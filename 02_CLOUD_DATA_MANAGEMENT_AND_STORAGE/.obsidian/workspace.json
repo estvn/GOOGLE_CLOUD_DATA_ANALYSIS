@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "8f0adb36cb83bf7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "905a7b50b1fc33fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4877feff0ec3837",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "004_TECHNIQUES_ACCESS_DATA/016_CREATE_PARTITIONED_TABLE.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "016_CREATE_PARTITIONED_TABLE"
+            }
+          },
+          {
+            "id": "30499b3a5e4e6e7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "004_TECHNIQUES_ACCESS_DATA/018_TIPS_INTERACTING_PARTITIONED_TABLES.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "018_TIPS_INTERACTING_PARTITIONED_TABLES"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdfe7569549d8206",
+    "type": "split",
+    "children": [
+      {
+        "id": "85c05c929d378c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "217b7cf876f820ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f96f3573b1baff78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e47602000aa74069",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d95250e3f25a2c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "87d6a172a4ca1cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca799662e38c68f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cd7b08e6dad4fa3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5a3613e656b3b9ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9a359118310409e9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "57efa99adbd7d8bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "30499b3a5e4e6e7f",
+  "lastOpenFiles": [
+    "004_TECHNIQUES_ACCESS_DATA/017_STRATEGIES_QUERYING_PARTITIONED_TABLES.md",
+    "004_TECHNIQUES_ACCESS_DATA/018_TIPS_INTERACTING_PARTITIONED_TABLES.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/018_TIPS_INTERACTING_PARTITIONED_TABLES.pdf.opdownload",
+    "Pasted image 20260924231449.png",
+    "004_TECHNIQUES_ACCESS_DATA/013_BENEFITS_DATA_PARTITIONING.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/015_DATA_PARTITION_REDUCES_CLOUD_COSTS.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/014_METHODS_FOR_PARTITIONING_TABLES.md",
+    "004_TECHNIQUES_ACCESS_DATA/012_ESSENTIALS_DATABASE_PARTITIONING.md",
+    "004_TECHNIQUES_ACCESS_DATA/016_CREATE_PARTITIONED_TABLE.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/003_AUTODETECTION_SCHEMAS_BIGQUERY.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/011_MANAGED_NOTEBOOKS.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/008_CLOUD_BASED_MACHINE_LEARNING_CAN_TRAIN_PREDICTIVE_MODELS.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/007_STEPS_MODELS_ACCESING_DATA_ML.md",
+    "004_TECHNIQUES_ACCESS_DATA/006_COMPARE_DATA_ANALYSIS_BIGQUERY_MANAGE_SERVICE_SPARK.md",
+    "004_TECHNIQUES_ACCESS_DATA/005_SQL_QUERY_TERMS.pdf",
+    "004_TECHNIQUES_ACCESS_DATA/016_CREATE_PARTITIONED_TABLE.pdf.opdownload",
+    "004_TECHNIQUES_ACCESS_DATA/010_OVERVIEW_GOOGLE_COLAB.md",
+    "003_STEPS_FIND_DATA/013_DIVE_WITH_KNOWLEDGE_CATALOG.md",
+    "003_STEPS_FIND_DATA/006_INTRODUCTION_BIG_QUERY_SHARING.md",
+    "003_STEPS_FIND_DATA/009_DATA_DISCOVERY_CURATION_UNIFICATION.md",
+    "004_TECHNIQUES_ACCESS_DATA/001_WELCOME_MODULE_4.md",
+    "004_TECHNIQUES_ACCESS_DATA/004_BASIC_SQL_COMMANDS_TO_QUERYING_DATA.md",
+    "004_TECHNIQUES_ACCESS_DATA/009_INTRO_ML_WITH_VERTEXAI_BIGQUERY.md",
+    "Pasted image 20260923100414.png",
+    "Pasted image 20260923095722.png",
+    "Pasted image 20260923095508.png",
+    "Pasted image 20260923095352.png",
+    "004_TECHNIQUES_ACCESS_DATA/002_METHODS_DEFINING_BIGQUERY_TABLE_SCHEMAS.md",
+    "Pasted image 20260920095817.png",
+    "Pasted image 20260920095756.png",
+    "Pasted image 20260920095924.png",
+    "Pasted image 20260920100004.png",
+    "003_STEPS_FIND_DATA/014_CONCLUSION.md",
+    "Pasted image 20260920102243.png",
+    "003_STEPS_FIND_DATA/011_BENEFITS_USING_DATAPLEX.md",
+    "003_STEPS_FIND_DATA/003_DATA_LINEAGE_AND_TRACEABILITY.md",
+    "003_STEPS_FIND_DATA/001_INTRODUCTION.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/014_CONCUSION.md",
+    "001_INTRODUCTION_DATA_CLOUD_MANAGEMENT_STORAGE/024_CONCLUSION.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/013_EXPLORE_A_LAKEHOUSE.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/006_INTRODUCTION_MASTER_DATA_MANAGEMENT.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/004_DATA_GOVERNANCE_EFFECTIVE_DATA_MANAGEMENT.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/007_INTRODUCTION_DATA_CATALOGS.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/009_TECHNICAL_BUSINESS_METADATA.md",
+    "002_KEY_COMPONENTS_DATA_ORGANIZATION/011_COMPONENTS_DATA_LAKEHOUSE_ARCHITECTURE.md"
+  ]
+}

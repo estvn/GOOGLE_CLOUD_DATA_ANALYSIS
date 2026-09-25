@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "523cba0c46fe121d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71c59f3c90e13a83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e521ef3df10a8133",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_INTRODUCTION_GC_DATA_ANALYTICS/GLOSSARY_COURSE_1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GLOSSARY_COURSE_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ad7957c3dcee51c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8445e67d0702419c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f70cd362e8b35505",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80188c0eefff30c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17fe0abfb273b42e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6c482a3e026b074",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec2fa264faaf984",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64711fbe3e3dfd59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b9cce05df30ac61c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a08f6ee4ab75d90a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "254896b7db7d46ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7ac5ebb35dd7c635",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e521ef3df10a8133",
+  "lastOpenFiles": [
+    "01_INTRODUCTION_GC_DATA_ANALYTICS/COURSE_1_RESOURCES_CITATIONS.pdf",
+    "01_INTRODUCTION_GC_DATA_ANALYTICS/004_ROLE_CLOUD_DATA_ANALYST/022_SCREENSHOTS_LAB_BIGQUERY.md",
+    "01_INTRODUCTION_GC_DATA_ANALYTICS/001_INTRODUCTION_TO_CLOUD_COMPUTING/015_GLOSARY_TERMS_MODULE_1.pdf"
+  ]
+}
